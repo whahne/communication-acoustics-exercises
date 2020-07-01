@@ -4,7 +4,7 @@ Communication Acoustics - Exercises
 This repository holds some Jupyter/IPython notebooks, to be used with
 [Jupyter](http://jupyter.org/)/[IPython](http://ipython.org/).
 
-They can be also viewed as [static web pages](http://nbviewer.ipython.org/github/spatialaudio/communication-acoustics-exercises/blob/master/index.ipynb).
+They can be also viewed as [static web pages](https://nbviewer.jupyter.org/github/whahne/communication-acoustics-exercises/blob/studi_master/index.ipynb).
 
 Alternatively, you can [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/spatialaudio/communication-acoustics-exercises) to work in an *interactive* online experience just created for you!
 
