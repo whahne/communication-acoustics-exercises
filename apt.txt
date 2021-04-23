@@ -3,3 +3,4 @@ sndfile-programs
 sox
 libsox-fmt-all
 vorbis-tools
+libportaudio2
